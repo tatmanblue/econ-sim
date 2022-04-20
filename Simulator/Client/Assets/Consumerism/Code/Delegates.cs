@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TatmanGames.Economics
+namespace TatmanGames.Consumerism
 {
     public class PriceChangedEventArgs
     {

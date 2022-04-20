@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace TatmanGames.Economics.Interfaces
+namespace TatmanGames.Consumerism.Interfaces
 {
 	#region production and consumption
 	// Producers add "items" into the economy

@@ -1,6 +1,6 @@
 {
-    "name": "TatmanGames.Economics",
-    "rootNamespace": "TatmanGames.Economics",
+    "name": "TatmanGames.Consumerism",
+    "rootNamespace": "TatmanGames.Consumerism",
     "references": [],
     "includePlatforms": [
         "Editor",

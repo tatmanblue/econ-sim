@@ -1,4 +1,4 @@
-﻿namespace TatmanGames.Economics
+﻿namespace TatmanGames.Consumerism
 {
     public static class Constants
     {
