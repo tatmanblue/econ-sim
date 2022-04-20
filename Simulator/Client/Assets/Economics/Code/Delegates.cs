@@ -1,7 +1,6 @@
 ﻿using System;
-using PlasticPipe.Server;
 
-namespace F500.Consumerism
+namespace TatmanGames.Economics
 {
     public class PriceChangedEventArgs
     {

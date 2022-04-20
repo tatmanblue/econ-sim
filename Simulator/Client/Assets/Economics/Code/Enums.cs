@@ -1,4 +1,4 @@
-﻿namespace F500.Consumerism
+﻿namespace TatmanGames.Economics
 {
     public enum PriceChangedEvents
     {
