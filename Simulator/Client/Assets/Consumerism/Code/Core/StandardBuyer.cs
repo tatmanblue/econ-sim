@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
+using TatmanGames.Consumerism.Interfaces;
 
-namespace F500.Consumerism
+namespace TatmanGames.Consumerism.Core
 {
     /// <summary>
     /// A generic buyer that will buy an item off any market place when the

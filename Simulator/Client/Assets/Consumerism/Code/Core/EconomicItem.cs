@@ -1,4 +1,6 @@
-﻿namespace F500.Consumerism
+﻿using TatmanGames.Consumerism.Interfaces;
+
+namespace TatmanGames.Consumerism.Core
 {
     /// <summary>
     /// An item in the economy.  Instance is a aggregation and unique per inventory.

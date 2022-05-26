@@ -1,0 +1,4 @@
+﻿namespace TatmanGames.Consumerism.Core
+{
+    
+}

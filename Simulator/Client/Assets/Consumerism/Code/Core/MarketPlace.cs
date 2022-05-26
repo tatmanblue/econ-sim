@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using F500.Consumerism;
 using TatmanGames.Consumerism;
 using TatmanGames.Consumerism.Interfaces;
 
-namespace F500.Consumerism
+namespace  TatmanGames.Consumerism.Core
 {
     /// <summary>
     /// Market place is the store, where buyers and sellers do their transactions

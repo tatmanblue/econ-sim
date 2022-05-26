@@ -1,4 +1,6 @@
-﻿namespace F500.Consumerism
+﻿using TatmanGames.Consumerism.Interfaces;
+
+namespace  TatmanGames.Consumerism.Core
 {
     public class MarketableItem : IMarketableItem
     {

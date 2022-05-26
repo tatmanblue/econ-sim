@@ -1,4 +1,4 @@
-﻿namespace F500.Consumerism
+﻿namespace TatmanGames.Consumerism.Core
 {
     /// <summary>
     /// Recipe is a collection of one or more EconomicItems that produce

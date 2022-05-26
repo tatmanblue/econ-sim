@@ -1,8 +1,11 @@
 ﻿using System.Collections.Generic;
 using TatmanGames.Consumerism.Interfaces;
 
-namespace F500.Consumerism
+namespace TatmanGames.Consumerism.Core
 {
+    /// <summary>
+    /// TODO: consider replacing this with the servicelocator in https://github.com/tatmanblue/UI-Input/tree/main/Assets/Common
+    /// </summary>
     public class ServiceLocator
     {
         private List<IMarketPlace> markets = new List<IMarketPlace>();

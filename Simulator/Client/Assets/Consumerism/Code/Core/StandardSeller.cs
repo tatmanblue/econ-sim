@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
+using TatmanGames.Consumerism.Interfaces;
 
-namespace F500.Consumerism
+namespace TatmanGames.Consumerism.Core
 {
     public class StandardSeller : ISeller
     {

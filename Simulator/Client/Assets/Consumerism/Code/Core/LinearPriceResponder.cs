@@ -1,8 +1,9 @@
 ﻿using System.Collections.Generic;
+using F500.Consumerism;
 using TatmanGames.Consumerism;
 using TatmanGames.Consumerism.Interfaces;
 
-namespace F500.Consumerism
+namespace  TatmanGames.Consumerism.Core
 {
     /// <summary>
     /// When the quantity changes adjust the price by
