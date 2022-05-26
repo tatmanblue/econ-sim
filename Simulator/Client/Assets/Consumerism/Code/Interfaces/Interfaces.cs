@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using F500.Consumerism;
 
 namespace TatmanGames.Consumerism.Interfaces
 {

@@ -1,4 +1,6 @@
 ﻿using System;
+using TatmanGames.Consumerism;
+using TatmanGames.Consumerism.Interfaces;
 
 namespace F500.Consumerism
 {

@@ -1,4 +1,5 @@
 ﻿using System;
+using TatmanGames.Consumerism.Interfaces;
 
 namespace TatmanGames.Consumerism
 {
